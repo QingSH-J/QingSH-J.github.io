@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 你的网站标题</title>
+    <title>Posts | 你的网站标题</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on 你的网站标题</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 May 2025 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 30 May 2025 10:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Posts</title>
+      <link>http://localhost:1313/posts/</link>
+    </image>
+    
     <item>
       <title>我的第一篇文章</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 30 May 2025 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;这是我的第一篇Hugo文章内容&lt;/p&gt;</description>
+      <description>&lt;p&gt;这是我的第一篇Hugo文章内容&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
