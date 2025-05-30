@@ -1,0 +1,18 @@
+baseURL = 'https://QingSH-J.github.io'
+languageCode = 'zh-cn'
+title = '你的网站标题'
+theme = 'ananke'
+
+[params]
+  description = "网站描述"
+  author = "你的名字"
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 2
