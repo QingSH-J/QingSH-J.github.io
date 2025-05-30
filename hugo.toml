@@ -1,7 +1,7 @@
 baseURL = 'https://QingSH-J.github.io'
 languageCode = 'zh-cn'
 title = '你的网站标题'
-theme = 'ananke'
+theme = 'hugo-blox-docs'
 
 [params]
   description = "网站描述"
