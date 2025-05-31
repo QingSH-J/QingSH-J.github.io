@@ -1,24 +1,22 @@
 baseURL = 'https://QingSH-J.github.io'
 languageCode = 'zh-cn'
-title = '你的网站标题'
-theme = 'hugo-blox-docs'
+title = '调查局档案库'
 
-[params]
-  description = "网站描述"
-  author = "你的名字"
-
-[menu]
-  [[menu.main]]
-    name = "首页"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "关于"
-    url = "/about/"
-    weight = 2
-
+# Hugo Blox主题配置
 [module]
   [[module.imports]]
     path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify"
   [[module.imports]]
     path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
+
+# Markdown渲染配置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
+
+# 忽略警告
+ignoreLogs = ['warning-goldmark-raw-html']

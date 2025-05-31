@@ -1,0 +1,22 @@
+# 外观设置
+appearance:
+  mode: light
+  color: emerald
+
+# 导航栏设置
+header:
+  navbar:
+    enable: true
+    align: center
+    show_search: true
+    show_theme_chooser: true
+    fixed_to_top: true
+    logo:
+      text: "调查局档案馆"
+
+# 网站功能
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false

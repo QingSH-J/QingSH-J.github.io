@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>下设组织 | 调查局档案库</title>
+    <link>http://localhost:1313/docs/yuzhou/sub/</link>
+      <atom:link href="http://localhost:1313/docs/yuzhou/sub/index.xml" rel="self" type="application/rss+xml" />
+    <description>下设组织</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 31 May 2025 10:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>下设组织</title>
+      <link>http://localhost:1313/docs/yuzhou/sub/</link>
+    </image>
+    
+  </channel>
+</rss>

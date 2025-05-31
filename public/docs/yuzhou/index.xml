@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>禹州调查局 | 调查局档案库</title>
+    <link>http://localhost:1313/docs/yuzhou/</link>
+      <atom:link href="http://localhost:1313/docs/yuzhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>禹州调查局</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 31 May 2025 10:00:00 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>禹州调查局</title>
+      <link>http://localhost:1313/docs/yuzhou/</link>
+    </image>
+    
+    <item>
+      <title>组织结构</title>
+      <link>http://localhost:1313/docs/yuzhou/structure/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/structure/</guid>
+      <description>&lt;h1 id=&#34;禹州调查局组织结构&#34;&gt;禹州调查局组织结构&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;禹州调查局 (Yuzhou Regional Investigation Bureau)
+│
+└── 局长 (Director of Yuzhou Bureau)
+    │
+    ├── 副局长 (Deputy Directors)
+    │   ├── 常务副局长 (Executive Deputy Director)
+    │   ├── 行动副局长 (Deputy Director of Operations)
+    │   └── 技术与情报副局长 (Deputy Director of Technology &amp;amp; Intelligence)
+    │
+    └── 局长办公室 (Director&amp;#39;s Office)
+        ├── 局长助理 (Assistant to Director)
+        ├── 高级秘书 (Senior Secretary)
+        └── 机要参谋 (Confidential Secretary/Staff Officer)
+
+禹州调查局主要业务与支持部门：
+│
+├── 行动部 (Operations Department)
+│   │   (部长/负责人：例如，屠夫)
+│   ├── 执法一大队 (First Enforcement Detachment)
+│   │   └── 队长 (Captain) 及下属专员
+│   ├── 执法二大队 (Second Enforcement Detachment)
+│   │   └── 队长 (Captain) 及下属专员
+│   ├── 特勤小队/精英反应小队 (Special Operations Unit / ERT)
+│   │   └── 指挥官 (Commander) 及核心队员
+│   ├── 狙击与远程支援分队 (Sniper &amp;amp; Remote Support Unit)
+│   │   └── 分队长 (Unit Leader) 及狙击手
+│   └── 危机谈判组 (Crisis Negotiation Unit)
+│       └── 组长 (Team Leader) 及谈判专家
+│
+├── 情报处 (Intelligence Division)
+│   │   (处长：Chief of Intelligence)
+│   ├── 情报分析科 (Intelligence Analysis Section)
+│   ├── 档案管理科 (Archives Management Section)
+│   ├── 外勤情报组 (Field Intelligence Group - FIG)
+│   └── 技术侦察科 (Technical Surveillance Section)
+│
+├── 技术支援中心 (Technical Support Center)
+│   │   (主任：例如，王凯)
+│   ├── 网络安全与数字取证科 (Cybersecurity &amp;amp; Digital Forensics Section)
+│   ├── 异能现象研究室（区域级）(Regional Anomalous Phenomenon Lab)
+│   ├── 装备维护与改良科 (Equipment Maintenance &amp;amp; Modification Section)
+│   └── 通讯保障科 (Communications Support Section)
+│
+├── 医学与法证科 (Medical &amp;amp; Forensic Section)
+│   │   (科长：例如，张倩)
+│   ├── 法医鉴定组 (Forensic Examination Team)
+│   ├── 生物样本分析室 (Biological Sample Analysis Lab)
+│   ├── 临床医疗与急救支持 (Clinical Medical &amp;amp; Emergency Support)
+│   └── 心理健康与疏导中心 (Mental Health &amp;amp; Counseling Center)
+│
+├── 行政与后勤部 (Administration &amp;amp; Logistics Department)
+│   │   (部长：Head of Administration &amp;amp; Logistics)
+│   ├── 人事科 (Human Resources Section)
+│   ├── 财务科 (Finance Section)
+│   ├── 后勤保障科 (Logistics Support Section)
+│   └── 法务与合规办公室 (Legal Affairs &amp;amp; Compliance Office)
+│
+├── 内部督察与纪律处/纠察大队 (Internal Affairs &amp;amp; Disciplinary Division / Provost Detachment)
+│   │   (处长/大队长：Chief/Commander)
+│   └── (独立运作，直接向局长或更高层级负责)
+│
+└── 训练与发展中心 (Training &amp;amp; Development Center)
+    │   (主任/总教官：例如，陈启曦)
+    ├── 各专业教官团队 (Specialized Instructor Teams)
+    ├── 模拟训练设施 (Simulation Training Facilities)
+    ├── 理论课教室 (Theoretical Lecture Rooms)
+    └── 考核评估组 (Assessment &amp;amp; Evaluation Group)
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

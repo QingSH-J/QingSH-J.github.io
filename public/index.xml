@@ -1,23 +1,809 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>你的网站标题</title>
+    <title>调查局 | 调查局档案库</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>你的网站标题</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Fri, 30 May 2025 23:44:56 +0800</lastBuildDate>
+    <description>调查局</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-cn</language><lastBuildDate>Sat, 31 May 2025 10:00:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
-      <title>你的网站标题</title>
+      <url>http://localhost:1313/media/icon_hu_ad98b3d5ac1ecd6f.png</url>
+      <title>调查局</title>
       <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>About</title>
+      <title>快速开始</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>&lt;h1 id=&#34;快速开始&#34;&gt;快速开始&lt;/h1&gt;
+&lt;p&gt;这是一个快速开始指南，帮助你了解调查局档案馆的基本使用方法。&lt;/p&gt;
+&lt;h2 id=&#34;导航说明&#34;&gt;导航说明&lt;/h2&gt;
+&lt;p&gt;使用左侧的导航栏可以浏览不同的文档章节：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;快速开始&lt;/strong&gt; - 基本使用指南&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;组织架构&lt;/strong&gt; - 调查局的组织结构&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专员档案&lt;/strong&gt; - 专员信息管理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异能系统&lt;/strong&gt; - 异能分类和说明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开始探索&#34;&gt;开始探索&lt;/h2&gt;
+&lt;p&gt;现在你可以开始探索调查局的各个方面了！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>执法一大队</title>
+      <link>http://localhost:1313/docs/yuzhou/sub/op/team1/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/sub/op/team1/</guid>
+      <description>&lt;h1 id=&#34;执法一大队&#34;&gt;执法一大队&lt;/h1&gt;
+&lt;p&gt;禹州调查局行动部 - 执法一大队详解
+单位代号： YRB-OP-DET1 (Yuzhou Regional Bureau - Operations Department - Detachment 1)&lt;/p&gt;
+&lt;p&gt;格言/口号： “利刃破晓，坚盾卫城” (Blade Pierces the Dawn, Shield Guards the City)&lt;/p&gt;
+&lt;h2 id=&#34;一-定位与核心职责-positioning-and-core-responsibilities&#34;&gt;一、 定位与核心职责 (Positioning and Core Responsibilities)&lt;/h2&gt;
+&lt;p&gt;执法一大队是禹州调查局行动部下辖的核心城市作战单位，被誉为“禹州之矛”与“都市清道夫”。其主要负责禹州市核心城区（人口密集、经济发达、异能事件频发或潜在风险较高的区域）的A级（高危）及以下异能事件的快速反应、现场处置、目标抓捕与危机控制。&lt;/p&gt;
+&lt;p&gt;核心职责包括：&lt;/p&gt;
+&lt;p&gt;城市异能事件快速响应： 对发生在核心城区的异能失控、异能者暴力犯罪、以及由异能引发的公共安全事件进行第一时间介入和处置。&lt;/p&gt;
+&lt;p&gt;高危目标城市追捕与控制： 负责追踪、抓捕或在必要时控制在城市环境中活动的、对公共安全构成威胁的异能者或小型异能犯罪团伙。&lt;/p&gt;
+&lt;p&gt;重要区域与活动安保： 承担禹州市内重要政府机构、关键基础设施、大型公众活动以及特定保护人物（在调查局授权下）的异能安全保卫工作。&lt;/p&gt;
+&lt;p&gt;情报处与技术支援中心配合： 与情报处紧密合作，对城市内的可疑异能活动进行监控和前期侦察；配合技术支援中心进行现场勘查和电子证据搜集。&lt;/p&gt;
+&lt;p&gt;协同市治安局： 在处理涉及异能的复杂案件时，与禹州市治安局“特殊事件联络处”及市特警大队进行协同作战和信息共享。&lt;/p&gt;
+&lt;h2 id=&#34;二-组织架构与运作模式-organizational-structure-and-operational-model&#34;&gt;二、 组织架构与运作模式 (Organizational Structure and Operational Model)&lt;/h2&gt;
+&lt;p&gt;执法一大队在行动部部长的直接领导下，由一名经验丰富的大队长全面负责。其内部运作的核心特色是**“行动课题组” (Operational Group System)**，这种模式类似导师带领研究生的结构，旨在提升小队的专业化程度、反应速度、内部默契以及对新晋专员的实战培养效率。&lt;/p&gt;
+&lt;p&gt;大队长 (Detachment Captain - “总导师/Boss”):&lt;/p&gt;
+&lt;p&gt;任命： 由行动部部长提名，禹州调查局局长批准。通常由在城市异能作战、小队指挥、以及人员培养方面均有卓越成就的资深执行专员担任。&lt;/p&gt;
+&lt;p&gt;职责：&lt;/p&gt;
+&lt;p&gt;制定执法一大队的整体行动方针、训练计划和装备标准。&lt;/p&gt;
+&lt;p&gt;对下属各行动小组的任务进行宏观调配与监督。&lt;/p&gt;
+&lt;p&gt;负责评估和选拔各行动小组的组长。&lt;/p&gt;
+&lt;p&gt;培养大队内的核心骨干力量，提升整体作战效能。&lt;/p&gt;
+&lt;p&gt;在重大或跨小组行动中，可能亲自担任现场总指挥。&lt;/p&gt;
+&lt;p&gt;下设三个核心行动小组 (Three Core Operational Groups):
+每个行动小组通常由3-7名专员组成，拥有各自的专攻方向和行动代号，但也能根据任务需求进行灵活的混编与支援。&lt;/p&gt;
+&lt;h3 id=&#34;第一行动小组代号利刃---lìrèn--blade---屠夫组&#34;&gt;第一行动小组（代号：“利刃” - Lìrèn / Blade - “屠夫组”)&lt;/h3&gt;
+&lt;p&gt;定位： 攻坚克难的“拳头部队”，负责处理最高难度、最高对抗性的城市案件。&lt;/p&gt;
+&lt;p&gt;小组组长 (Group Leader)： 屠夫（若其不担任行动部部长，则可设定为执法一大队内经验最丰富、战功最卓著的小组组长，以其独特的领导风格和强大的个人实力著称。若其已是行动部部长，则此小组组长为屠夫最信任的、同样以强硬和高效闻名的副手，例如一名代号为“剔骨者”的资深专员）。&lt;/p&gt;
+&lt;p&gt;核心专员 (Core Agents)：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/people/qing-shiyu/&#34;&gt;卿诗雨&lt;/a&gt;： 作为小组内的绝对王牌，凭借其&amp;quot;魔电&amp;quot;的强大破坏力与控制力、&amp;ldquo;幽影&amp;quot;的极致渗透与感知能力，在突击、强攻、目标清除、以及复杂环境下的情报获取等方面发挥着不可替代的作用。她通常是&amp;quot;利刃&amp;quot;小组执行关键突破或解决核心威胁的依仗。&lt;/p&gt;
+&lt;p&gt;其他成员：通常包括2-4名在近身格斗、爆破与障碍清除、重火力压制、高速追捕或特定攻击型异能方面有突出专长的资深专员。&lt;/p&gt;
+&lt;p&gt;行动风格： 果决、凶悍、不拘一格，擅长以雷霆手段迅速瓦解敌人抵抗，直捣黄龙。在情报相对明确、需要正面硬撼或快速解决战斗的场合，通常由“利刃”小组主导。&lt;/p&gt;
+&lt;h3 id=&#34;第二行动小组代号鹰眼---yīngyǎn--eagle-eye&#34;&gt;第二行动小组（代号：“鹰眼” - Yīngyǎn / Eagle Eye)&lt;/h3&gt;
+&lt;p&gt;定位： 情报导向的“侦察兵”与“手术刀”，负责精准打击和隐秘行动。&lt;/p&gt;
+&lt;p&gt;小组组长 (Group Leader)： 一名极其擅长情报分析、城市环境渗透、目标行为预测的资深专员，可能拥有感知类或信息处理类异能。&lt;/p&gt;
+&lt;p&gt;核心专员 (Core Agents)：&lt;/p&gt;
+&lt;p&gt;成员构成更侧重于侦察、追踪、潜行、技术破解（如简易门禁、监控系统）、以及非暴力控制手段。&lt;/p&gt;
+&lt;p&gt;可能包括拥有视觉强化（类似“鹰眼”但非李娇级别）、听觉强化、微弱能量感知、心理侧写等异能的专员。&lt;/p&gt;
+&lt;p&gt;负责案件的前期摸排、目标人物的长时间秘密监控、关键证据的无痕搜集、以及在不惊动目标的情况下执行特定任务（如安装窃听器、获取物品等）。&lt;/p&gt;
+&lt;p&gt;行动风格： 隐秘、精准、耐心，强调最小化冲突和最大化情报获取。在需要长时间潜伏、细致侦察或执行“外科手术式”任务时，“鹰眼”小组是首选。&lt;/p&gt;
+&lt;h3 id=&#34;第三行动小组代号盾卫---dùnwèi--shield-guard&#34;&gt;第三行动小组（代号：“盾卫” - Dùnwèi / Shield Guard)&lt;/h3&gt;
+&lt;p&gt;定位： 现场控制的“稳定器”与团队的“后盾”。&lt;/p&gt;
+&lt;p&gt;小组组长 (Group Leader)： 一名组织协调能力强、注重团队配合、且在防御和控制方面有丰富经验的稳健型专员。&lt;/p&gt;
+&lt;p&gt;核心专员 (Core Agents)：&lt;/p&gt;
+&lt;p&gt;负责在行动中进行外围封锁、现场秩序维护、大规模人群疏散的协调指挥（与市治安局联动）。&lt;/p&gt;
+&lt;p&gt;保护重要目标、证人或受害者的安全。&lt;/p&gt;
+&lt;p&gt;为其他行动小组提供后勤支援、应急医疗救助（基础急救，与医学与法证科配合）、以及装备的临时维护。&lt;/p&gt;
+&lt;p&gt;可能包含拥有防御型异能（如能量护盾、物理屏障）、治愈型异能（初级）、或强化辅助类异能（如提升队友感知、短暂增强队友体力）的专员。&lt;/p&gt;
+&lt;p&gt;行动风格： 稳健、可靠、注重团队协作与风险控制。在需要大规模现场控制、人员保护或为其他小组提供支援保障时，“盾卫”小组将发挥关键作用。&lt;/p&gt;
+&lt;p&gt;新晋专员的培养与融入 (Integration and Development of New Agents):&lt;/p&gt;
+&lt;p&gt;新晋专员（如唐濯枝、楚怀/二十四号等）在完成调查局训练与发展中心的基础培训和初步考核后，会被根据其展现出的异能特点、专业技能、性格特质以及个人意愿，分配到执法一大队的这三个核心行动小组之一进行为期不短的实战历练。&lt;/p&gt;
+&lt;p&gt;导师制培养： 每个新晋专员都会被指派给小组内的一名资深专员（通常是小组组长或经验丰富的核心组员）作为“导师”，负责其日常的战术指导、技能培训、任务经验传授以及思想引导。&lt;/p&gt;
+&lt;p&gt;轮岗与定岗： 在初期，新晋专员可能会在不同类型的小组或任务中进行轮岗，以全面了解执法一大队的运作模式和不同岗位的要求。最终根据其表现和发展潜力，确定其在某个小组内的长期定位。&lt;/p&gt;
+&lt;h2 id=&#34;三-装备与资源-equipment-and-resources&#34;&gt;三、 装备与资源 (Equipment and Resources):&lt;/h2&gt;
+&lt;p&gt;标准化装备： 配备调查局统一标准的通讯器材、防护用具、制式枪械（针对异能者可能配备特种弹药）、非致命性控制武器（如高压电击器、束缚网枪、镇静剂发射器）。&lt;/p&gt;
+&lt;p&gt;小组特化装备：&lt;/p&gt;
+&lt;p&gt;“利刃”组：可能配备更具破坏力的攻坚武器、重型防弹盾牌、以及针对特定异能的强化攻击装备。&lt;/p&gt;
+&lt;p&gt;“鹰眼”组：配备更先进的微型侦察设备、窃听装置、夜视仪、以及用于无声潜入的特殊工具。&lt;/p&gt;
+&lt;p&gt;“盾卫”组：配备大规模人群控制装备、便携式防御屏障、以及更全面的战场急救包。&lt;/p&gt;
+&lt;p&gt;车辆载具： 拥有经过改装的、具备一定防护能力和城市机动性的行动车辆。&lt;/p&gt;
+&lt;p&gt;情报与技术支持： 能够优先获得情报处和技术支援中心关于城市区域的情报支持和技术协助。&lt;/p&gt;
+&lt;h2 id=&#34;四-部门文化与信条-department-culture-and-creed&#34;&gt;四、 部门文化与信条 (Department Culture and Creed):&lt;/h2&gt;
+&lt;p&gt;“城市守护者”的荣誉感： 执法一大队的成员普遍对自己作为禹州核心城区安全第一道防线的角色抱有强烈的责任感和荣誉感。&lt;/p&gt;
+&lt;p&gt;快节奏与高压力： 城市核心区域事件频发，要求成员必须适应快节奏、高压力的工作状态。&lt;/p&gt;
+&lt;p&gt;团队协作与信任： 尽管内部小组有分工，但在复杂任务面前，小队之间以及大队内部的紧密协作和相互信任是成功的关键。&lt;/p&gt;
+&lt;p&gt;“在阴影中守护光明”： 他们的工作大多不为公众所知，默默地清除着城市中的黑暗，守护着普通市民的安宁。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>组织结构</title>
+      <link>http://localhost:1313/docs/yuzhou/structure/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/structure/</guid>
+      <description>&lt;h1 id=&#34;禹州调查局组织结构&#34;&gt;禹州调查局组织结构&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;禹州调查局 (Yuzhou Regional Investigation Bureau)
+│
+└── 局长 (Director of Yuzhou Bureau)
+    │
+    ├── 副局长 (Deputy Directors)
+    │   ├── 常务副局长 (Executive Deputy Director)
+    │   ├── 行动副局长 (Deputy Director of Operations)
+    │   └── 技术与情报副局长 (Deputy Director of Technology &amp;amp; Intelligence)
+    │
+    └── 局长办公室 (Director&amp;#39;s Office)
+        ├── 局长助理 (Assistant to Director)
+        ├── 高级秘书 (Senior Secretary)
+        └── 机要参谋 (Confidential Secretary/Staff Officer)
+
+禹州调查局主要业务与支持部门：
+│
+├── 行动部 (Operations Department)
+│   │   (部长/负责人：例如，屠夫)
+│   ├── 执法一大队 (First Enforcement Detachment)
+│   │   └── 队长 (Captain) 及下属专员
+│   ├── 执法二大队 (Second Enforcement Detachment)
+│   │   └── 队长 (Captain) 及下属专员
+│   ├── 特勤小队/精英反应小队 (Special Operations Unit / ERT)
+│   │   └── 指挥官 (Commander) 及核心队员
+│   ├── 狙击与远程支援分队 (Sniper &amp;amp; Remote Support Unit)
+│   │   └── 分队长 (Unit Leader) 及狙击手
+│   └── 危机谈判组 (Crisis Negotiation Unit)
+│       └── 组长 (Team Leader) 及谈判专家
+│
+├── 情报处 (Intelligence Division)
+│   │   (处长：Chief of Intelligence)
+│   ├── 情报分析科 (Intelligence Analysis Section)
+│   ├── 档案管理科 (Archives Management Section)
+│   ├── 外勤情报组 (Field Intelligence Group - FIG)
+│   └── 技术侦察科 (Technical Surveillance Section)
+│
+├── 技术支援中心 (Technical Support Center)
+│   │   (主任：例如，王凯)
+│   ├── 网络安全与数字取证科 (Cybersecurity &amp;amp; Digital Forensics Section)
+│   ├── 异能现象研究室（区域级）(Regional Anomalous Phenomenon Lab)
+│   ├── 装备维护与改良科 (Equipment Maintenance &amp;amp; Modification Section)
+│   └── 通讯保障科 (Communications Support Section)
+│
+├── 医学与法证科 (Medical &amp;amp; Forensic Section)
+│   │   (科长：例如，张倩)
+│   ├── 法医鉴定组 (Forensic Examination Team)
+│   ├── 生物样本分析室 (Biological Sample Analysis Lab)
+│   ├── 临床医疗与急救支持 (Clinical Medical &amp;amp; Emergency Support)
+│   └── 心理健康与疏导中心 (Mental Health &amp;amp; Counseling Center)
+│
+├── 行政与后勤部 (Administration &amp;amp; Logistics Department)
+│   │   (部长：Head of Administration &amp;amp; Logistics)
+│   ├── 人事科 (Human Resources Section)
+│   ├── 财务科 (Finance Section)
+│   ├── 后勤保障科 (Logistics Support Section)
+│   └── 法务与合规办公室 (Legal Affairs &amp;amp; Compliance Office)
+│
+├── 内部督察与纪律处/纠察大队 (Internal Affairs &amp;amp; Disciplinary Division / Provost Detachment)
+│   │   (处长/大队长：Chief/Commander)
+│   └── (独立运作，直接向局长或更高层级负责)
+│
+└── 训练与发展中心 (Training &amp;amp; Development Center)
+    │   (主任/总教官：例如，陈启曦)
+    ├── 各专业教官团队 (Specialized Instructor Teams)
+    ├── 模拟训练设施 (Simulation Training Facilities)
+    ├── 理论课教室 (Theoretical Lecture Rooms)
+    └── 考核评估组 (Assessment &amp;amp; Evaluation Group)
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>专员介绍</title>
+      <link>http://localhost:1313/docs/people/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/people/</guid>
+      <description>&lt;p&gt;欢迎访问红星联邦共和国调查总局（RSNIB）内部专员档案中心。本档案库旨在记录并索引那些在“耀恒荧微纪”的动荡时代，肩负着维护国家安全、探究异能奥秘、对抗超常规威胁的精英探员。&lt;/p&gt;
+&lt;p&gt;每一份档案都代表着一位在光明与阴影间行走的守护者，他们或拥有超凡的异能，或具备顶尖的专业技能，亦或两者兼备。他们是调查局最宝贵的财富，是应对“黑色组织”、“冥界”侵袭以及各类未知威胁的中坚力量。&lt;/p&gt;
+&lt;p&gt;在此，您将有机会深入了解这些专员的背景资料、能力评估、曾参与的重大任务（在解密权限内）、以及他们在错综复杂的事件中所扮演的关键角色。他们的故事，共同谱写了调查局在新时代下的隐秘传奇。&lt;/p&gt;
+&lt;p&gt;请注意： 部分档案涉及高度机密，其内容的完整性与可访问性将根据查阅者的授权级别进行动态调整。所有信息仅供内部参考与研究，严禁外泄。&lt;/p&gt;
+&lt;h2 id=&#34;调查局专员分类与职责&#34;&gt;调查局专员分类与职责&lt;/h2&gt;
+&lt;p&gt;红星联邦共和国调查总局（及下属各分局/全球分支）的专员队伍，根据其承担的核心职责与专业技能，主要划分为以下三个序列。各序列专员既有明确分工，又在实际行动中紧密协作，共同构成调查局应对各类超常规威胁的坚实力量。&lt;/p&gt;
+&lt;h2 id=&#34;执行专员&#34;&gt;执行专员&lt;/h2&gt;
+&lt;p&gt;一、 执行专员 (Field Operations Agent / Executive Agent)&lt;/p&gt;
+&lt;p&gt;定位与核心职责：
+执行专员是调查局的一线尖刀与行动核心。他们直面最危险的敌人、最诡谲的案件和最不可预测的超自然现象。其核心职责包括但不限于：异能事件的现场处置与控制、高危异能者及组织的追踪与抓捕、秘密渗透与情报刺探、人质解救、要员保护、以及在极端情况下执行“清除”或“回收”等特殊指令。他们是秩序的守护者，行走在光明与黑暗的刀锋边缘。&lt;/p&gt;
+&lt;p&gt;典型技能与素质要求：&lt;/p&gt;
+&lt;p&gt;卓越的战斗能力： 精通徒手格斗、多种冷热兵器的使用（包括制式枪械与特种武器）、小队战术配合、以及在复杂城市或野外环境下的作战技巧。&lt;/p&gt;
+&lt;p&gt;异能的实战应用（针对异能者专员）： 能够熟练、高效、且创造性地运用自身异能进行攻击、防御、辅助或控制。对自身异能的极限与代价有清晰认知。&lt;/p&gt;
+&lt;p&gt;高度的心理韧性： 能够在高压、高危、甚至面临精神污染或恐怖景象时保持冷静、清晰的判断力和坚定的意志。具备强大的抗压能力和自我情绪调节能力。&lt;/p&gt;
+&lt;p&gt;侦察与反侦察： 精通跟踪、监视、伪装、潜行等技巧，能够敏锐洞察环境，发现异常，并规避敌对侦察。&lt;/p&gt;
+&lt;p&gt;应急处置与生存技能： 掌握高级急救知识（包括针对异能伤害的初步处理）、危机谈判技巧、以及在各种极端环境下的野外或城市生存能力。&lt;/p&gt;
+&lt;p&gt;情报获取与审讯（初级/中级）： 具备一定的现场情报获取能力和基础的审讯技巧。&lt;/p&gt;
+&lt;p&gt;快速学习与适应能力： 能够迅速适应不同任务环境和应对层出不穷的新型威胁。&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;技术专员&#34;&gt;技术专员&lt;/h2&gt;
+&lt;p&gt;二、 技术专员 (Technical Specialist Agent)&lt;/p&gt;
+&lt;p&gt;定位与核心职责：
+技术专员是调查局的智慧大脑与技术基石。他们为一线行动提供不可或缺的技术支持、情报分析、以及对超常规现象的科学解读。其核心职责包括：网络攻防与数字取证、异能现象的科学分析与数据建模、特种装备的研发与维护、加密通讯与信息安全保障、以及对复杂案件进行深度情报挖掘与技术研判。&lt;/p&gt;
+&lt;p&gt;典型技能与素质要求：&lt;/p&gt;
+&lt;p&gt;顶尖的专业技术能力： 在各自领域（如计算机科学、网络安全、密码学、数据分析、生物工程、材料科学、物理学、法医学、异能学理论等）拥有深厚造诣。&lt;/p&gt;
+&lt;p&gt;强大的逻辑思维与分析能力： 能够从海量、复杂、甚至看似矛盾的信息中提取关键线索，进行精准的分析、推理和预测。&lt;/p&gt;
+&lt;p&gt;创新与研发能力： 能够针对调查局的特殊需求，研发或改进侦察设备、反制工具、信息系统、甚至辅助异能应用的装置。&lt;/p&gt;
+&lt;p&gt;数字取证与追踪溯源： 精通计算机取证、移动设备取证、网络流量分析、IP追踪与反追溯、暗网调查等技术。&lt;/p&gt;
+&lt;p&gt;异能现象的科学解读： 尝试从科学角度（物理、生物、能量等）分析异能的运作原理、能量特征、以及可能的弱点或反制方法。（例如，分析“因果种子”的作用模式，或研究“禁魔石”的原理）。&lt;/p&gt;
+&lt;p&gt;高度的保密意识和严谨的工作态度。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;行政专员&#34;&gt;行政专员&lt;/h2&gt;
+&lt;p&gt;三、 行政专员 (Administrative &amp;amp; Support Agent)&lt;/p&gt;
+&lt;p&gt;定位与核心职责：
+行政专员是调查局高效运作的保障系统与神经中枢。他们负责组织的日常管理、资源调配、内外协调、以及为一线和技术部门提供全面的支持服务。其核心职责包括：人事管理与招募培训、财务预算与后勤保障、情报资料的整理归档与安全管理、法律事务与合规审查、公共关系与危机公关（若有，可能极为隐秘）、以及各部门间的联络与协调。&lt;/p&gt;
+&lt;p&gt;典型技能与素质要求：&lt;/p&gt;
+&lt;p&gt;优秀的组织与管理能力： 能够高效地规划、协调和管理人力、物力、财力等资源。&lt;/p&gt;
+&lt;p&gt;扎实的专业知识： 在各自负责领域（如人力资源、法律、财务、物流、信息管理、公共管理等）拥有专业知识。&lt;/p&gt;
+&lt;p&gt;出色的沟通与协调能力： 能够有效地与局内各部门、其他政府机构、甚至国际组织（若有合作）进行沟通和协调。&lt;/p&gt;
+&lt;p&gt;高度的责任心和原则性： 严格遵守调查局的各项规章制度和保密条例。&lt;/p&gt;
+&lt;p&gt;情报分析与文书处理能力： 能够处理和分析大量文件资料，撰写高质量的报告和指令。&lt;/p&gt;
+&lt;p&gt;危机管理与应变能力： 在突发事件或组织面临危机时，能够协助高层进行有效的管理和应对。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;专员权限等级&#34;&gt;专员权限等级&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;S级&lt;/strong&gt; - 最高权限，可执行特殊任务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A级&lt;/strong&gt; - 高级权限，独立行动能力&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B级&lt;/strong&gt; - 中级权限，需要上级授权&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C级&lt;/strong&gt; - 初级权限，实习和培训阶段&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>执法二大队</title>
+      <link>http://localhost:1313/docs/yuzhou/sub/op/team2/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/sub/op/team2/</guid>
+      <description>&lt;h1 id=&#34;执法二大队&#34;&gt;执法二大队&lt;/h1&gt;
+&lt;p&gt;执法二大队负责禹州行省除核心城区外的其他城市及偏远地区的异能事件处置工作。&lt;/p&gt;
+&lt;h2 id=&#34;队伍规模&#34;&gt;队伍规模&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;队长&lt;/strong&gt;：待定&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;副队长&lt;/strong&gt;：2名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;机动小组&lt;/strong&gt;：3个（每组8-10人）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;总人员&lt;/strong&gt;：约40人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要职责&#34;&gt;主要职责&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;偏远地区异能事件调查&lt;/li&gt;
+&lt;li&gt;跨城市执法协调&lt;/li&gt;
+&lt;li&gt;野外异能现象处置&lt;/li&gt;
+&lt;li&gt;边境地区安全巡逻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特殊装备&#34;&gt;特殊装备&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;越野作战车辆&lt;/li&gt;
+&lt;li&gt;野外生存装备&lt;/li&gt;
+&lt;li&gt;长距离通讯设备&lt;/li&gt;
+&lt;li&gt;移动指挥中心&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>特勤小队</title>
+      <link>http://localhost:1313/docs/yuzhou/sub/op/special/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/sub/op/special/</guid>
+      <description>&lt;h1 id=&#34;特勤小队&#34;&gt;特勤小队&lt;/h1&gt;
+&lt;p&gt;特勤小队是行动部的精英力量，专门处理最高危险等级的异能事件和特殊任务。&lt;/p&gt;
+&lt;h2 id=&#34;队伍特点&#34;&gt;队伍特点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;队长&lt;/strong&gt;：精英异能专员&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;队员&lt;/strong&gt;：12名精选专员&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;选拔标准&lt;/strong&gt;：S级或A级权限，实战经验丰富&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;训练强度&lt;/strong&gt;：最高级别特训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要任务&#34;&gt;主要任务&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;极危险异能者抓捕&lt;/li&gt;
+&lt;li&gt;异能恐怖事件处置&lt;/li&gt;
+&lt;li&gt;救援被困专员&lt;/li&gt;
+&lt;li&gt;秘密渗透任务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特殊能力&#34;&gt;特殊能力&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;团队协作异能战术&lt;/li&gt;
+&lt;li&gt;高强度作战耐力&lt;/li&gt;
+&lt;li&gt;复杂环境适应性&lt;/li&gt;
+&lt;li&gt;心理抗压能力&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>组织架构</title>
+      <link>http://localhost:1313/docs/organization/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/organization/</guid>
+      <description>&lt;h1 id=&#34;组织架构&#34;&gt;组织架构&lt;/h1&gt;
+&lt;p&gt;调查局作为一个全球性的秘密组织，拥有完善的组织架构和明确的职能分工。&lt;/p&gt;
+&lt;h2 id=&#34;总体结构&#34;&gt;总体结构&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;调查局全球总部/最高指挥中心 (Global HQ / Supreme Command Center)
+│
+├── 理事会 (Council - 由主要成员国代表组成，选举总局长)
+│
+├── 总局长 (Director General)
+│
+├── 全球战略与情报统筹部 (Global Strategy &amp;amp; Intelligence Coordination Dept.)
+│
+├── 全球行动指挥中心 (Global Operations Command Center)
+│
+├── 全球资源与技术支援部 (Global Resources &amp;amp; Technical Support Dept.)
+│
+├── 全球快速反应部队 (Global Rapid Response Unit - GRRU)
+│   └── (例如：&amp;#34;幽灵&amp;#34;特遣队, 顶尖单兵特工序列如&amp;#34;零&amp;#34;)
+│
+├── 各专业化特种部门 (Specialized Departments)
+│   ├── 全球网络安全中心 (Global Cybersecurity Center)
+│   ├── 全球异能科学研究院 (Global Anomalous Science Research Institute)
+│   ├── 全球医学与法证中心 (Global Medical &amp;amp; Forensic Center)
+│   └── 对冥界特种作战单位&amp;#34;守夜人&amp;#34; (Night Watchers - Anti-Underworld Special Ops)
+│
+└── 各国家级总局 (National General Bureaus)
+    │
+    └── 红星联邦共和国调查总局 (Red Star National Investigation Bureau - RSNIB)
+        │   
+        ├── 行动指挥部 (Operations Command)
+        │   └── (负责策划和指挥国内重大行动)
+        │
+        ├── 情报分析中心 (Intelligence Analysis Center)
+        │   └── (汇总分析国内外情报)
+        │
+        ├── 技术支援部 (Technical Support Department)
+        │   ├── 网络安全中心 
+        │   ├── 异能科学研究中心
+        │   └── 特种装备研发处
+        │
+        ├── 专员管理与培训部 (Agent Management &amp;amp; Training Department)
+        │   └── (负责全国专员招募、考核、晋升和高级培训)
+        │
+        ├── 内部纠察与纪律部 (Internal Affairs &amp;amp; Disciplinary Department)
+        │
+        ├── 对外联络与国际合作部 (External Liaison &amp;amp; International Cooperation Dept.)
+        │
+        └── 各区域分局/大区总部 (Regional Bureaus / Major Area HQs)
+            │
+            └── 西南大区总部 / 禹州调查局 (Yuzhou Regional Investigation Bureau)
+                │   (局长/负责人，例如：屠夫 - 可能为行动部部长或副局长级别)
+                │
+                ├── 局长办公室 (Bureau Director&amp;#39;s Office)
+                │   ├── 副局长 (分管行动、情报、技术、行政等)
+                │   └── 局长助理/秘书处
+                │
+                ├── 行动部 (Operations Department)
+                │   ├── 执法一大队 (核心城区)
+                │   ├── 执法二大队 (其他城市及偏远地区)
+                │   ├── 特勤小队/精英反应小队
+                │   ├── 狙击与远程支援分队
+                │   └── 危机谈判组
+                │
+                ├── 情报处 (Intelligence Division)
+                │   ├── 情报分析科
+                │   ├── 档案管理科
+                │   └── 外勤情报组
+                │
+                ├── 技术支援中心 (Technical Support Center)
+                │   ├── 网络安全与数字取证科
+                │   ├── 异能现象研究室（初级）
+                │   ├── 装备维护与改良科
+                │   └── 通讯保障科
+                │
+                ├── 医学与法证科 (Medical &amp;amp; Forensic Section)
+                │
+                ├── 行政与后勤部 (Administration &amp;amp; Logistics Department)
+                │   ├── 人事科
+                │   ├── 财务科
+                │   ├── 后勤保障科
+                │   └── 法务与合规办公室
+                │
+                ├── 内部督察与纪律处/纠察大队 (Internal Affairs &amp;amp; Disciplinary Division)
+                │
+                └── 训练与发展中心 (Training &amp;amp; Development Center)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;主要分局&#34;&gt;主要分局&lt;/h2&gt;
+&lt;h3 id=&#34;-禹州调查局&#34;&gt;🔍 禹州调查局&lt;/h3&gt;
+&lt;p&gt;禹州调查局组织架构详解
+隶属关系与定位：&lt;/p&gt;
+&lt;p&gt;禹州调查局（Yuzhou Regional Investigation Bureau），作为红星联邦共和国调查总局（RSNIB）在西南大区的核心分支机构（或直接的禹州行省分局），是维护该区域国家安全、应对异能事件、打击超常规犯罪、培养专业人才的关键力量。其直接向红星国调查总局局长（王志刚）及相关行动指挥部负责，并在授权范围内与全球总部及其他国家级分局进行情报共享与协同作战。&lt;/p&gt;
+&lt;h4 id=&#34;核心领导层&#34;&gt;核心领导层：&lt;/h4&gt;
+&lt;h5 id=&#34;禹州调查局局长-director-of-yuzhou-bureau&#34;&gt;禹州调查局局长 (Director of Yuzhou Bureau):&lt;/h5&gt;
+&lt;p&gt;职责： 全面主持禹州调查局的日常工作与战略部署，对本区域内的重大异能事件和安全威胁负总责。执行来自红星国调查总局的指令，并向总局汇报工作。拥有对本局资源的最高调配权和人事任免建议权。&lt;/p&gt;
+&lt;p&gt;小说中可能人物： 可能是屠夫的上级，一个目前尚未直接出场但权力极高的人物。&lt;/p&gt;
+&lt;h5 id=&#34;副局长-deputy-directors&#34;&gt;副局长 (Deputy Directors):&lt;/h5&gt;
+&lt;p&gt;数量： 通常设置2-3名。&lt;/p&gt;
+&lt;p&gt;职责： 协助局长分管特定领域，例如：&lt;/p&gt;
+&lt;p&gt;常务副局长： 协助处理日常行政、人事、财务，并在局长缺位时代理其职责。&lt;/p&gt;
+&lt;p&gt;行动副局长： 专门负责指挥和协调所有一线行动部门（各执法大队、特勤小队等）。（屠夫的角色可能更接近这个或行动部部长）&lt;/p&gt;
+&lt;p&gt;技术与情报副局长： 监督技术支援中心和情报处的工作，确保技术领先和情报畅通。&lt;/p&gt;
+&lt;p&gt;局长办公室 (Director&amp;rsquo;s Office):&lt;/p&gt;
+&lt;p&gt;组成： 局长助理、高级秘书、机要参谋等。&lt;/p&gt;
+&lt;p&gt;职责： 负责局长日程安排、文件传达、会议组织、对外联络（初级）、以及处理局长交办的其他机密事务。&lt;/p&gt;
+&lt;p&gt;主要业务部门：&lt;/p&gt;
+&lt;h4 id=&#34;行动部-operations-department&#34;&gt;行动部 (Operations Department):&lt;/h4&gt;
+&lt;p&gt;部长 (Head of Operations): （屠夫的角色非常适合担任此职位，或作为核心副部长直接指挥关键行动）&lt;/p&gt;
+&lt;p&gt;职责： 调查局的核心打击力量，负责所有一线执法、抓捕、渗透、危机应对等高风险行动的策划、组织与实施。&lt;/p&gt;
+&lt;p&gt;下设单位：&lt;/p&gt;
+&lt;h5 id=&#34;执法一大队-first-enforcement-detachment&#34;&gt;执法一大队 (First Enforcement Detachment):&lt;/h5&gt;
+&lt;p&gt;队长： 经验丰富的资深执行专员。&lt;/p&gt;
+&lt;p&gt;职责： 主要负责禹州市核心城区及周边经济发达区域的A级（高危）及以下异能事件，应对突发暴力异能犯罪，执行抓捕、控制、现场封锁等任务。是城市异能事件的快速反应主力。&lt;/p&gt;
+&lt;p&gt;特点： 成员通常由异能者与精锐非异能者混编，强调城市巷战、室内突入和快速应变能力。装备精良，与市治安局特殊事件联络处对接紧密。&lt;/p&gt;
+&lt;p&gt;执法二大队 (Second Enforcement Detachment):&lt;/p&gt;
+&lt;p&gt;队长： 擅长野外作战和追踪的资深执行专员。&lt;/p&gt;
+&lt;p&gt;职责： 负责处理禹州行省内其他城市、乡镇及广阔的盘龙山脉等偏远地区的异能事件。更多涉及野外追踪、山地搜索、秘密据点清剿等任务。&lt;/p&gt;
+&lt;p&gt;特点： 成员需具备优秀的野外生存技能、山地作战能力和反追踪技巧。可能配备更多针对复杂地形和隐蔽行动的特种装备。&lt;/p&gt;
+&lt;h5 id=&#34;特勤小队精英反应小队-special-operations-unit--elite-response-team---ert&#34;&gt;特勤小队/精英反应小队 (Special Operations Unit / Elite Response Team - ERT):&lt;/h5&gt;
+&lt;p&gt;指挥官： 通常由行动部部长或副局长亲自挑选并临时指派，或有常设的精英小队指挥官。（卿诗雨在执行特定高难度任务时，可能会临时领导这样的小队）&lt;/p&gt;
+&lt;p&gt;职责： 由局内最顶尖、异能最特殊或综合能力最强的执行专员组成，专门处理B级（极度危险）及以上，或涉及高度机密、需要特殊手段的案件（如“普罗米修斯之火”这类任务的禹州本地支援部分）。直接受局长或行动部最高层指挥。&lt;/p&gt;
+&lt;p&gt;特点： 成员构成灵活，异能组合多样且强大，擅长小队渗透、精确打击、人质解救、高价值目标捕获/清除等。拥有优先的资源调配权。&lt;/p&gt;
+&lt;h5 id=&#34;狙击与远程支援分队-sniper--remote-support-unit&#34;&gt;狙击与远程支援分队 (Sniper &amp;amp; Remote Support Unit):&lt;/h5&gt;
+&lt;p&gt;分队长： 顶尖狙击手出身。&lt;/p&gt;
+&lt;p&gt;职责： 为一线行动提供远程精确火力支援、定点清除高价值目标、战场监视与情报反馈、以及在特定情况下执行秘密暗杀任务。（李娇/三十号的最终培养方向）&lt;/p&gt;
+&lt;p&gt;特点： 成员需具备顶尖的射击技能、伪装潜伏能力、“鹰眼”类超强视觉感知异能，以及极强的心理素质和耐心。&lt;/p&gt;
+&lt;p&gt;危机谈判组 (Crisis Negotiation Unit):&lt;/p&gt;
+&lt;p&gt;组长： 资深心理学专家或谈判专家。&lt;/p&gt;
+&lt;p&gt;职责： 负责在人质劫持、异能者情绪失控引发对峙、或涉及敏感人物的危机事件中进行专业谈判，争取和平解决，最大限度减少伤亡和负面影响。&lt;/p&gt;
+&lt;p&gt;特点： 成员需具备极高的心理素质、沟通技巧、应变能力和对异能者心理的深刻理解。&lt;/p&gt;
+&lt;h4 id=&#34;情报处-intelligence-division&#34;&gt;情报处 (Intelligence Division):&lt;/h4&gt;
+&lt;p&gt;处长 (Chief of Intelligence):&lt;/p&gt;
+&lt;p&gt;职责： 禹州调查局的“眼睛”和“耳朵”，负责本区域内所有与异能、超常规威胁、以及敌对组织相关情报的搜集、分析、研判与分发。&lt;/p&gt;
+&lt;p&gt;下设单位：&lt;/p&gt;
+&lt;p&gt;情报分析科 (Intelligence Analysis Section): 核心分析部门，负责对各类原始情报进行筛选、甄别、交叉验证、深度挖掘，形成有价值的分析报告和威胁预警，为行动决策提供支持。&lt;/p&gt;
+&lt;p&gt;档案管理科 (Archives Management Section): 负责所有涉密案件卷宗、异能者登记档案、黑色组织成员资料、以及其他机密文件的电子化与实体化归档、安全保管、权限控制与调阅管理。&lt;/p&gt;
+&lt;p&gt;外勤情报组 (Field Intelligence Group - FIG): 由经验丰富的专员组成，负责发展和管理线人网络（可能渗透到禹州各行各业，甚至包括一些灰色地带），进行秘密走访、目标抵近侦察和人力情报刺探。&lt;/p&gt;
+&lt;p&gt;技术侦察科 (Technical Surveillance Section): 与技术支援中心合作，利用技术手段（如通讯监听、网络监控、微型侦察设备等，在授权范围内）获取情报。&lt;/p&gt;
+&lt;h4 id=&#34;技术支援中心-technical-support-center&#34;&gt;技术支援中心 (Technical Support Center):&lt;/h4&gt;
+&lt;p&gt;主任 (Director of Technical Support): （王凯的角色，作为总局网络安全中心副主任，可能在禹州分局兼任此职或作为高级顾问指导工作）&lt;/p&gt;
+&lt;p&gt;职责： 为调查局各项工作提供全面的技术保障和前沿技术支持，包括网络安全、数字取证、异能现象的科学分析、以及特种装备的适配与应用。&lt;/p&gt;
+&lt;p&gt;下设单位：&lt;/p&gt;
+&lt;p&gt;网络安全与数字取证科 (Cybersecurity &amp;amp; Digital Forensics Section): 负责禹州调查局内部网络安全防护，应对外部网络攻击，对涉案电子设备进行数据提取与分析（如“响尾蛇行动”中幽灵的技术），进行IP追踪、恶意软件分析等。&lt;/p&gt;
+&lt;p&gt;异能现象研究室（区域级）(Regional Anomalous Phenomenon Lab): 对禹州及西南地区出现的独特异能现象、异能物品、以及因异能产生的特殊环境变化进行初步的科学记录、样本采集、数据分析，并与红星国调查总局的“异能科学研究院”进行数据共享和研究协作。&lt;/p&gt;
+&lt;p&gt;装备维护与改良科 (Equipment Maintenance &amp;amp; Modification Section): 负责对调查局配发的常规及特种装备（包括武器、载具、通讯设备、侦察器材、防护用具等）进行日常维护、保养、检修，并根据禹州地区的特殊环境（如潮湿、多山、多雾）和任务需求，对部分装备进行适应性改良或定制化开发。&lt;/p&gt;
+&lt;p&gt;通讯保障科 (Communications Support Section): 负责建立和维护禹州调查局内部及与上级、外勤单位之间的加密通讯网络，确保在各种复杂环境下（包括强电磁干扰或异能干扰）的通讯畅通与安全。&lt;/p&gt;
+&lt;h4 id=&#34;医学与法证科-medical--forensic-section&#34;&gt;医学与法证科 (Medical &amp;amp; Forensic Section):&lt;/h4&gt;
+&lt;p&gt;科长 (Chief Medical &amp;amp; Forensic Examiner): （张倩的角色，作为总局医学中心副主任，可能在禹州分局兼任此职或作为高级顾问指导工作）&lt;/p&gt;
+&lt;p&gt;职责： 为调查局行动提供医疗保障，对案件涉及的生物证据进行科学鉴定，并对专员进行心理健康支持。&lt;/p&gt;
+&lt;p&gt;下设单位/主要功能：&lt;/p&gt;
+&lt;p&gt;法医鉴定组： 负责对异能案件中的受害者、嫌疑人尸体进行检验，分析死因，特别是鉴定由异能造成的特殊生理损伤、能量侵蚀效应、精神冲击后遗症等。&lt;/p&gt;
+&lt;p&gt;生物样本分析室： 对现场提取的血液、体液、毛发、皮肤组织以及不明生物样本进行DNA分析、毒理学检测、以及可能的异能残留物（如特殊能量粒子、变异细胞）筛查。&lt;/p&gt;
+&lt;p&gt;临床医疗与急救支持： 为受伤的专员提供紧急医疗救治和后续康复治疗，研究针对异能伤害的特殊治疗方案。&lt;/p&gt;
+&lt;p&gt;心理健康与疏导中心： 为长期处于高压、高危环境下的专员提供心理评估、压力疏导、创伤后应激障碍（PTSD）干预等服务。（卿诗雨的“精神病”诊断可能就与此部门有关）&lt;/p&gt;
+&lt;h4 id=&#34;行政与后勤部-administration--logistics-department&#34;&gt;行政与后勤部 (Administration &amp;amp; Logistics Department):&lt;/h4&gt;
+&lt;p&gt;部长 (Head of Administration &amp;amp; Logistics):&lt;/p&gt;
+&lt;p&gt;职责： 调查局的“大管家”，确保禹州分局日常运作的顺畅和各项资源的充足供应。&lt;/p&gt;
+&lt;p&gt;下设单位：&lt;/p&gt;
+&lt;p&gt;人事科 (Human Resources Section): 负责禹州分局人员的招录初审（如新学员的初步筛选）、内部调动、薪酬福利、绩效考核、行政人事档案管理。&lt;/p&gt;
+&lt;p&gt;财务科 (Finance Section): 负责分局年度预算编制与申报、日常经费管理与审批、大宗采购的财务审核、以及专员行动经费的报销与管理。&lt;/p&gt;
+&lt;p&gt;后勤保障科 (Logistics Support Section): 负责武器弹药、车辆载具、通讯设备、办公用品、生活物资、以及特种装备（非研发）的采购、仓储、分配与日常维护。&lt;/p&gt;
+&lt;p&gt;法务与合规办公室 (Legal Affairs &amp;amp; Compliance Office): 负责审查分局各项行动和内部规章的合法性与合规性，处理与地方政府、其他机构的法律协调事务，为专员提供法律咨询。&lt;/p&gt;
+&lt;h4 id=&#34;内部督察与纪律处纠察大队-internal-affairs--disciplinary-division--provost-detachment&#34;&gt;内部督察与纪律处/纠察大队 (Internal Affairs &amp;amp; Disciplinary Division / Provost Detachment):&lt;/h4&gt;
+&lt;p&gt;处长/大队长： （通常由一位资历深厚、铁面无私的高级专员担任）&lt;/p&gt;
+&lt;p&gt;职责： 直接向禹州调查局局长（并可能同时向红星国调查总局的内部纠察与纪律部）负责。独立开展工作，负责监督分局各部门及所有专员的行为是否符合调查局的纪律条例和红星国法律，调查内部腐败、滥用职权、泄密等违纪违法行为，维护调查局的纯洁性和公信力。&lt;/p&gt;
+&lt;p&gt;特点： 拥有独立的调查权和一定的处置建议权，行事低调但令人生畏，是局内所有人员的“达摩克利斯之剑”。&lt;/p&gt;
+&lt;h4 id=&#34;训练与发展中心-training--development-center&#34;&gt;训练与发展中心 (Training &amp;amp; Development Center):&lt;/h4&gt;
+&lt;p&gt;主任/总教官： 卿诗雨（后为陈启曦）&lt;/p&gt;
+&lt;p&gt;职责： 负责新晋专员（如唐濯枝、楚怀、李娇等）的基础技能培训、专业技能深化、以及异能掌控与应用训练（与异能现象研究室合作）。同时也负责在职专员的定期轮训、技能更新和针对特定任务的强化集训。是禹州调查局乃至西南大区的人才培养摇篮。&lt;/p&gt;
+&lt;p&gt;下设： 各类专业教官团队（格斗、射击、潜行、网络、异能应用等）、模拟训练设施、理论课教室、考核评估组。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>异能系统</title>
+      <link>http://localhost:1313/docs/abilities/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/abilities/</guid>
+      <description>&lt;h1 id=&#34;异能系统&#34;&gt;异能系统&lt;/h1&gt;
+&lt;p&gt;自耀恒星转变后，异能在人类社会中开始涌现。调查局建立了完整的异能分类和管理体系。&lt;/p&gt;
+&lt;h2 id=&#34;异能分类&#34;&gt;异能分类&lt;/h2&gt;
+&lt;h3 id=&#34;-元素系&#34;&gt;🔥 元素系&lt;/h3&gt;
+&lt;p&gt;控制和操纵自然元素的能力&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;火焰操控&lt;/strong&gt; - 生成和控制火焰&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;水流操控&lt;/strong&gt; - 操纵水的形态和流动&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大地操控&lt;/strong&gt; - 控制土石和地形&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风暴操控&lt;/strong&gt; - 操纵气流和电能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-精神系&#34;&gt;🧠 精神系&lt;/h3&gt;
+&lt;p&gt;影响意识和精神的能力&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;心灵感应&lt;/strong&gt; - 读取他人思想&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;精神控制&lt;/strong&gt; - 影响他人意志&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;预知能力&lt;/strong&gt; - 预见未来片段&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;幻象制造&lt;/strong&gt; - 创造虚假感知&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-强化系&#34;&gt;⚡ 强化系&lt;/h3&gt;
+&lt;p&gt;增强身体机能的能力&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;力量强化&lt;/strong&gt; - 提升物理力量&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;速度强化&lt;/strong&gt; - 增强移动速度&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;感官强化&lt;/strong&gt; - 提高感知能力&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;再生能力&lt;/strong&gt; - 加速伤势愈合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-空间系&#34;&gt;🌀 空间系&lt;/h3&gt;
+&lt;p&gt;操纵空间和维度的能力&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;瞬间移动&lt;/strong&gt; - 短距离空间跳跃&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;空间扭曲&lt;/strong&gt; - 改变空间结构&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;次元储存&lt;/strong&gt; - 创造存储空间&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;传送门&lt;/strong&gt; - 连接不同地点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;异能等级&#34;&gt;异能等级&lt;/h2&gt;
+&lt;h3 id=&#34;sss级---神话级&#34;&gt;SSS级 - 神话级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;极其罕见，全球不超过10人&lt;/li&gt;
+&lt;li&gt;可能影响全球格局&lt;/li&gt;
+&lt;li&gt;需要最高级别监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ss级---传说级&#34;&gt;SS级 - 传说级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;非常稀少，威力巨大&lt;/li&gt;
+&lt;li&gt;可能造成城市级别影响&lt;/li&gt;
+&lt;li&gt;调查局重点关注对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;s级---超凡级&#34;&gt;S级 - 超凡级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;稀少但强大&lt;/li&gt;
+&lt;li&gt;可能造成区域级影响&lt;/li&gt;
+&lt;li&gt;需要专门管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a级---优秀级&#34;&gt;A级 - 优秀级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;较为罕见&lt;/li&gt;
+&lt;li&gt;实用性强&lt;/li&gt;
+&lt;li&gt;调查局优先招募&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;b级---普通级&#34;&gt;B级 - 普通级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;相对常见&lt;/li&gt;
+&lt;li&gt;日常应用价值&lt;/li&gt;
+&lt;li&gt;基础管理对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;c级---初级&#34;&gt;C级 - 初级&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最常见类型&lt;/li&gt;
+&lt;li&gt;能力较弱&lt;/li&gt;
+&lt;li&gt;简单登记管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;异能管理规定&#34;&gt;异能管理规定&lt;/h2&gt;
+&lt;h3 id=&#34;登记制度&#34;&gt;登记制度&lt;/h3&gt;
+&lt;p&gt;所有异能者必须在调查局进行身份登记和能力评估。&lt;/p&gt;
+&lt;h3 id=&#34;使用限制&#34;&gt;使用限制&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止在公共场所随意使用异能&lt;/li&gt;
+&lt;li&gt;不得利用异能进行犯罪活动&lt;/li&gt;
+&lt;li&gt;特殊情况需向调查局报告&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;培训计划&#34;&gt;培训计划&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;为异能者提供能力控制训练&lt;/li&gt;
+&lt;li&gt;开设异能安全使用课程&lt;/li&gt;
+&lt;li&gt;优秀者可申请加入调查局&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;应急预案&#34;&gt;应急预案&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;异能失控紧急处理程序&lt;/li&gt;
+&lt;li&gt;异能犯罪快速响应机制&lt;/li&gt;
+&lt;li&gt;公众安全保护措施&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>狙击支援分队</title>
+      <link>http://localhost:1313/docs/yuzhou/sub/op/sniper/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/yuzhou/sub/op/sniper/</guid>
+      <description>&lt;h1 id=&#34;狙击支援分队&#34;&gt;狙击支援分队&lt;/h1&gt;
+&lt;p&gt;狙击支援分队是行动部的专业支援力量，为各执法队伍提供远程火力支援和精确打击能力。&lt;/p&gt;
+&lt;h2 id=&#34;队伍组成&#34;&gt;队伍组成&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;分队长&lt;/strong&gt;：资深狙击手&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;狙击手&lt;/strong&gt;：6名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;观察员&lt;/strong&gt;：6名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术支援&lt;/strong&gt;：2名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;专业技能&#34;&gt;专业技能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;远程精确射击&lt;/li&gt;
+&lt;li&gt;战术观察与情报收集&lt;/li&gt;
+&lt;li&gt;隐蔽渗透&lt;/li&gt;
+&lt;li&gt;电子对抗支援&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;装备配置&#34;&gt;装备配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;精密狙击步枪&lt;/li&gt;
+&lt;li&gt;高倍率瞄准镜&lt;/li&gt;
+&lt;li&gt;夜视设备&lt;/li&gt;
+&lt;li&gt;通讯干扰器&lt;/li&gt;
+&lt;li&gt;异能抑制弹药&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;作战模式&#34;&gt;作战模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;单独行动支援&lt;/li&gt;
+&lt;li&gt;多点协同狙击&lt;/li&gt;
+&lt;li&gt;长期潜伏观察&lt;/li&gt;
+&lt;li&gt;紧急撤离掩护&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>任务档案</title>
+      <link>http://localhost:1313/docs/missions/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/missions/</guid>
+      <description>&lt;h1 id=&#34;任务档案&#34;&gt;任务档案&lt;/h1&gt;
+&lt;h2 id=&#34;一-任务档案标准头部信息&#34;&gt;一、 任务档案标准头部信息：&lt;/h2&gt;
+&lt;p&gt;任务代号 (Mission Codename)： 例如：“普罗米修斯之火 - 方氏‘遗种’调查”、“盘龙江清剿行动”（虚构）、“地铁幽灵追踪”等。&lt;/p&gt;
+&lt;p&gt;文件密级 (Security Clearance Level)： 例如：红色绝密、橙色机密、黄色秘密、蓝色受限、绿色公开（若有）。&lt;/p&gt;
+&lt;p&gt;文件编号 (Document Number)： 统一的档案编号系统，例如：RSNIB-YR-OP-5030-XXXX (红星国调查总局-禹州区域-行动部-年份-序列号)。&lt;/p&gt;
+&lt;p&gt;任务级别 (Mission Level)： 例如：A级（区域性高危）、B级（国家级重大）、S级（全球性战略级）。&lt;/p&gt;
+&lt;p&gt;立案日期 (Date Initiated)：&lt;/p&gt;
+&lt;p&gt;结案日期 (Date Concluded)： (若已结案)&lt;/p&gt;
+&lt;p&gt;主要负责单位/部门 (Lead Unit/Department)： 例如：禹州调查局行动部执法一大队、红星国调查总局“幽灵”特遣队。&lt;/p&gt;
+&lt;p&gt;主要负责人/指挥官 (Lead Agent/Commander)：&lt;/p&gt;
+&lt;p&gt;任务状态 (Mission Status)： 例如：进行中、已完成、已归档、暂停、失败。&lt;/p&gt;
+&lt;h2 id=&#34;二-任务概述-mission-overview&#34;&gt;二、 任务概述 (Mission Overview)：&lt;/h2&gt;
+&lt;p&gt;事由/起因 (Incident/Origin)： 简述任务发起的背景和原因。例如：禹州地铁发生不明原因爆炸，造成重大伤亡，初步判断涉及异能；接到匿名举报称方氏集团进行非法异能实验。&lt;/p&gt;
+&lt;p&gt;核心目标 (Primary Objectives)： 清晰列出任务需要达成的核心目标。&lt;/p&gt;
+&lt;p&gt;次要目标 (Secondary Objectives)：&lt;/p&gt;
+&lt;p&gt;涉及区域/地点 (Affected Area/Location)： 例如：禹州市下城区地铁2号线XX站台、盘龙山脉西麓、方氏集团总部大楼等。&lt;/p&gt;
+&lt;p&gt;初步威胁评估 (Initial Threat Assessment)： 对任务涉及的敌人、环境、异能等潜在威胁的初步判断。&lt;/p&gt;
+&lt;h2 id=&#34;三-涉案关键信息-key-case-information&#34;&gt;三、 涉案关键信息 (Key Case Information)：&lt;/h2&gt;
+&lt;p&gt;主要涉案人员/组织 (Key Individuals/Organizations Involved)：&lt;/p&gt;
+&lt;p&gt;目标/嫌疑人： 姓名、代号、已知异能、体貌特征、背景资料、组织归属（如“黑色组织”、“永生序列”）。&lt;/p&gt;
+&lt;p&gt;受害者： 身份信息、受害情况、与案件关联。&lt;/p&gt;
+&lt;p&gt;重要证人：&lt;/p&gt;
+&lt;p&gt;合作单位： 如地方治安局、军方特定部门。&lt;/p&gt;
+&lt;p&gt;涉及异能类型与分析 (Anomalous Abilities Involved &amp;amp; Analysis)：&lt;/p&gt;
+&lt;p&gt;详细记录案件中出现或怀疑存在的异能类型（如“因果种子”、“魔电”、“幽影”等）。&lt;/p&gt;
+&lt;p&gt;对异能的威力、作用范围、已知使用者、以及可能的反制措施进行初步分析。&lt;/p&gt;
+&lt;p&gt;关键物证/线索 (Key Evidence/Clues)：&lt;/p&gt;
+&lt;p&gt;例如：“神秘的绿色果实”、“特殊的能量残留”、“加密数据盘”、“受害者的日记”等。&lt;/p&gt;
+&lt;p&gt;附带照片、扫描件或分析报告摘要。&lt;/p&gt;
+&lt;h2 id=&#34;四-行动过程记录-operational-log---可按时间线&#34;&gt;四、 行动过程记录 (Operational Log - 可按时间线)：&lt;/h2&gt;
+&lt;p&gt;阶段性进展： 按照时间顺序，记录调查和行动的主要阶段和关键节点。&lt;/p&gt;
+&lt;p&gt;例如：初步现场勘查、情报搜集与分析、目标锁定、渗透计划制定、行动执行、遭遇对抗、撤离等。&lt;/p&gt;
+&lt;p&gt;重大事件记录： 记录行动中发生的关键事件，如重要发现、激烈交火、人员伤亡、目标逃脱/被捕/被清除等。&lt;/p&gt;
+&lt;p&gt;资源调配与使用情况： 记录行动中投入的人力、装备、技术支援等。&lt;/p&gt;
+&lt;p&gt;通讯记录摘要（加密）： 关键的指令传达和情报汇报摘要。&lt;/p&gt;
+&lt;h2 id=&#34;五-战术与策略分析-tactics--strategy-analysis&#34;&gt;五、 战术与策略分析 (Tactics &amp;amp; Strategy Analysis)：&lt;/h2&gt;
+&lt;p&gt;行动方案： 简述最初制定的主要行动方案和备用方案。&lt;/p&gt;
+&lt;p&gt;遭遇对抗详情： 若发生战斗或对抗，详细记录敌我双方的战术运用、异能交锋、装备效能等。&lt;/p&gt;
+&lt;p&gt;决策过程复盘： 对行动中的关键决策进行回顾和分析，评估其正确性与影响。&lt;/p&gt;
+&lt;h2 id=&#34;六-任务结果与评估-mission-outcome--evaluation&#34;&gt;六、 任务结果与评估 (Mission Outcome &amp;amp; Evaluation)：&lt;/h2&gt;
+&lt;p&gt;目标完成情况： 逐条对照任务目标，说明完成度。&lt;/p&gt;
+&lt;p&gt;损失与代价： 我方人员伤亡、装备损耗、附带损害等。&lt;/p&gt;
+&lt;p&gt;情报获取与价值评估： 任务中获取的新情报及其对后续行动或整体战略的价值。&lt;/p&gt;
+&lt;p&gt;经验教训总结 (Lessons Learned)： 从成功和失败中总结经验，为后续任务提供借鉴。&lt;/p&gt;
+&lt;p&gt;后续建议/未尽事宜： 是否需要进一步调查、监控或采取其他措施。&lt;/p&gt;
+&lt;h2 id=&#34;七-附件-appendices&#34;&gt;七、 附件 (Appendices)：&lt;/h2&gt;
+&lt;p&gt;现场照片、监控录像截图。&lt;/p&gt;
+&lt;p&gt;审讯记录摘要。&lt;/p&gt;
+&lt;p&gt;法医鉴定报告摘要。&lt;/p&gt;
+&lt;p&gt;技术分析报告（如网络渗透报告、异能能量分析报告）。&lt;/p&gt;
+&lt;p&gt;相关人员的详细档案链接（链接到专员档案库或目标档案库）。&lt;/p&gt;
+&lt;p&gt;地图与行动路线图。&lt;/p&gt;
+&lt;h2 id=&#34;任务分类&#34;&gt;任务分类&lt;/h2&gt;
+&lt;h3 id=&#34;-紧急响应&#34;&gt;🚨 紧急响应&lt;/h3&gt;
+&lt;p&gt;处理突发异能事件和威胁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;异能失控事件&lt;/strong&gt; - 紧急控制和救援&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异能犯罪&lt;/strong&gt; - 快速抓捕和处理&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公共安全威胁&lt;/strong&gt; - 保护民众安全&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-调查任务&#34;&gt;🔍 调查任务&lt;/h3&gt;
+&lt;p&gt;深入调查可疑事件和组织&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;黑色组织追踪&lt;/strong&gt; - 跨国犯罪集团调查&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异能来源研究&lt;/strong&gt; - 追溯异能出现原因&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;失踪人员搜索&lt;/strong&gt; - 寻找失踪的异能者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-保护任务&#34;&gt;🛡️ 保护任务&lt;/h3&gt;
+&lt;p&gt;保护重要人员和设施&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;VIP保护&lt;/strong&gt; - 重要政府官员安保&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设施防护&lt;/strong&gt; - 关键基础设施守卫&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;证人保护&lt;/strong&gt; - 重要证人安全转移&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-情报任务&#34;&gt;📊 情报任务&lt;/h3&gt;
+&lt;p&gt;收集和分析重要情报&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;渗透任务&lt;/strong&gt; - 深入敌对组织收集信息&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;监视行动&lt;/strong&gt; - 长期跟踪可疑目标&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;信息分析&lt;/strong&gt; - 处理和解读情报数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;著名任务案例&#34;&gt;著名任务案例&lt;/h2&gt;
+&lt;h3 id=&#34;星辰计划&#34;&gt;&amp;ldquo;星辰计划&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;时间&lt;/strong&gt;: 耀恒星转变初期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;: 调查异能出现的根本原因&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;状态&lt;/strong&gt;: 进行中&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;负责人&lt;/strong&gt;: [机密]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;黑夜清扫&#34;&gt;&amp;ldquo;黑夜清扫&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;时间&lt;/strong&gt;: 2024年秋季&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;: 打击黑色组织在东亚的据点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结果&lt;/strong&gt;: 成功摧毁3个重要据点&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参与专员&lt;/strong&gt;: 卿诗雨小队&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;幽灵追踪&#34;&gt;&amp;ldquo;幽灵追踪&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;时间&lt;/strong&gt;: 2024年冬季&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;目标&lt;/strong&gt;: 追查代号&amp;quot;幽灵&amp;quot;的神秘异能者&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;状态&lt;/strong&gt;: 已完成&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特殊说明&lt;/strong&gt;: 该目标后加入调查局&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务等级&#34;&gt;任务等级&lt;/h2&gt;
+&lt;h3 id=&#34;sss级---绝密任务&#34;&gt;SSS级 - 绝密任务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;涉及国家安全或全球稳定&lt;/li&gt;
+&lt;li&gt;仅限最高权限专员参与&lt;/li&gt;
+&lt;li&gt;严格保密，不留书面记录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ss级---机密任务&#34;&gt;SS级 - 机密任务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;重大威胁或敏感事件&lt;/li&gt;
+&lt;li&gt;需要S级以上专员执行&lt;/li&gt;
+&lt;li&gt;部分信息对外保密&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;s级---重要任务&#34;&gt;S级 - 重要任务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;区域性重大事件&lt;/li&gt;
+&lt;li&gt;A级专员可以参与&lt;/li&gt;
+&lt;li&gt;内部公开，对外保密&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;a级---常规任务&#34;&gt;A级 - 常规任务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;日常异能事件处理&lt;/li&gt;
+&lt;li&gt;B级专员主要执行&lt;/li&gt;
+&lt;li&gt;基础保密等级&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务执行流程&#34;&gt;任务执行流程&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;威胁评估&lt;/strong&gt; - 分析任务风险和重要性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人员配置&lt;/strong&gt; - 根据任务需求分配专员&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;装备准备&lt;/strong&gt; - 配发必要的武器和设备&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;行动执行&lt;/strong&gt; - 按计划执行任务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;结果汇报&lt;/strong&gt; - 提交详细的任务报告&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;经验总结&lt;/strong&gt; - 分析得失，改进流程&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>关于调查局档案馆</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 30 May 2025 23:44:56 +0800</pubDate>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;关于调查局档案馆&#34;&gt;关于调查局档案馆&lt;/h1&gt;
+&lt;p&gt;欢迎来到调查局档案馆！这里收藏着神秘调查局的珍贵档案资料。&lt;/p&gt;
+&lt;h2 id=&#34;我们的使命&#34;&gt;我们的使命&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;strong&gt;收集整理&lt;/strong&gt; - 系统性收集调查局相关档案&lt;/li&gt;
+&lt;li&gt;🔍 &lt;strong&gt;深度研究&lt;/strong&gt; - 对档案内容进行深入分析&lt;/li&gt;
+&lt;li&gt;📖 &lt;strong&gt;知识分享&lt;/strong&gt; - 为研究者提供便利的查阅平台&lt;/li&gt;
+&lt;li&gt;🔒 &lt;strong&gt;安全保管&lt;/strong&gt; - 确保重要档案的安全性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;档案分类&#34;&gt;档案分类&lt;/h2&gt;
+&lt;h3 id=&#34;专员档案&#34;&gt;专员档案&lt;/h3&gt;
+&lt;p&gt;详细记录调查局各位专员的基本信息、能力特长和任务经历。&lt;/p&gt;
+&lt;h3 id=&#34;异能档案&#34;&gt;异能档案&lt;/h3&gt;
+&lt;p&gt;系统整理各类异能的分类、特征和相关案例。&lt;/p&gt;
+&lt;h3 id=&#34;任务档案&#34;&gt;任务档案&lt;/h3&gt;
+&lt;p&gt;重要调查任务的详细记录和分析报告。&lt;/p&gt;
+&lt;h3 id=&#34;人物关系&#34;&gt;人物关系&lt;/h3&gt;
+&lt;p&gt;调查局内部及相关人员的关系网络图谱。&lt;/p&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;如果您有任何问题或建议，请通过以下方式联系我们：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;电子邮件&lt;/strong&gt;: &lt;a href=&#34;mailto:qingshiyuu@gmail.com&#34;&gt;qingshiyuu@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/QingSH-J&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/QingSH-J&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地址&lt;/strong&gt;: 香港九龙塘区&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;最后更新：2025年5月31日&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>卿诗雨</title>
+      <link>http://localhost:1313/docs/people/qingshiyu/</link>
+      <pubDate>Sat, 31 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/docs/people/qingshiyu/</guid>
+      <description>&lt;h1 id=&#34;卿诗雨&#34;&gt;卿诗雨&lt;/h1&gt;
+</description>
     </item>
     
     <item>
@@ -26,6 +812,317 @@
       <pubDate>Fri, 30 May 2025 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;这是我的第一篇Hugo文章内容&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>代号零</title>
+      <link>http://localhost:1313/people/agent-zero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/agent-zero/</guid>
+      <description>&lt;h1 id=&#34;专员档案代号零&#34;&gt;专员档案：代号&amp;quot;零&amp;quot;&lt;/h1&gt;
+&lt;h2 id=&#34;-高度机密档案&#34;&gt;⚠️ 高度机密档案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;警告：本档案为SSS级机密，仅限局长级别人员查阅&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;真实姓名&lt;/strong&gt;: [绝密]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;代号&lt;/strong&gt;: 零&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职级&lt;/strong&gt;: 特殊专员 (S级权限)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属&lt;/strong&gt;: 特别行动部&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;入职时间&lt;/strong&gt;: [机密]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;专业技能&#34;&gt;专业技能&lt;/h2&gt;
+&lt;h3 id=&#34;核心能力&#34;&gt;核心能力&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主要异能&lt;/strong&gt;: [绝密分级信息]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异能等级&lt;/strong&gt;: S级或更高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专长领域&lt;/strong&gt;: 秘密行动、深度渗透&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;战斗评估&#34;&gt;战斗评估&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;隐蔽行动&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;情报收集&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;异能控制&lt;/strong&gt;: [数据删除]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生存能力&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务记录&#34;&gt;任务记录&lt;/h2&gt;
+&lt;h3 id=&#34;已知行动&#34;&gt;已知行动&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;幽灵追踪&amp;quot;反转&lt;/strong&gt; (2024年冬季)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;状态：从被追踪目标转为调查局成员&lt;/li&gt;
+&lt;li&gt;结果：[机密]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;多项深度渗透任务&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;详情：[绝密]&lt;/li&gt;
+&lt;li&gt;成功率：[数据删除]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;特殊说明&#34;&gt;特殊说明&lt;/h2&gt;
+&lt;p&gt;代号&amp;quot;零&amp;quot;的专员是调查局历史上最神秘的成员之一。其真实身份、背景和能力均被列为最高机密。据不完全统计，该专员在加入调查局前曾是多个重要调查目标，但最终选择与调查局合作。&lt;/p&gt;
+&lt;h2 id=&#34;权限等级&#34;&gt;权限等级&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SSS级绝密&lt;/strong&gt; - 本档案的存在本身就是机密信息。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;档案建立时间：[机密]&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;最后更新：[数据删除]&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;查阅记录：[监控中]&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>卿诗雨</title>
+      <link>http://localhost:1313/people/qing-shiyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/qing-shiyu/</guid>
+      <description>&lt;h1 id=&#34;专员档案卿诗雨&#34;&gt;专员档案：卿诗雨&lt;/h1&gt;
+&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+&lt;p&gt;调查局专员档案：卿诗雨 (Qing Shiyu)&lt;/p&gt;
+&lt;p&gt;文件密级： 红色绝密 (RED SECRET - STRATEGIC LEVEL)&lt;/p&gt;
+&lt;p&gt;档案编号： RSNIB-AGENT-ALPHA-001 (虚构)&lt;/p&gt;
+&lt;p&gt;最后更新日期： 耀恒荧微纪 5030年X月X日 (根据小说当前时间线)&lt;/p&gt;
+&lt;p&gt;归档单位： 红星联邦共和国禹州调查局 人事部特勤档案室&lt;/p&gt;
+&lt;h2 id=&#34;一-基本信息-basic-information&#34;&gt;一、 基本信息 (Basic Information)&lt;/h2&gt;
+&lt;p&gt;姓名： 卿诗雨 (Qing Shiyu)&lt;/p&gt;
+&lt;p&gt;曾用/关联代号： 雨 (Yu)；“梦魇教官” (学员私下称呼)&lt;/p&gt;
+&lt;p&gt;性别： 女&lt;/p&gt;
+&lt;p&gt;年龄： 外表年龄约28-32岁（实际年龄因其特殊经历可能难以准确判断，档案记录显示其大学时期已执行高难度任务）&lt;/p&gt;
+&lt;p&gt;外貌特征： 容貌美丽，通常为引人注目的红色长发（可使用幽影异能改变发色，如变为黑色），瞳色深邃。身姿挺拔，气质冷冽而强大，常着干练作战服或黑色风衣。&lt;/p&gt;
+&lt;p&gt;现任职务（公开/禹州）： 禹州调查局行动部执法一大队第一行动小组（“利刃”组）核心专员；调查局新晋专员特训教官。&lt;/p&gt;
+&lt;p&gt;真实身份/背景（高度机密）：&lt;/p&gt;
+&lt;p&gt;疑似远古雷神“厄琉斯”的灵魂继承者/转世者之一（与“雨”的灵魂分裂有关）。&lt;/p&gt;
+&lt;p&gt;体内融合多种强大血脉，包括雷神血脉、魔族可汗血脉、以及龙族血脉（体内有“龙丹”）。&lt;/p&gt;
+&lt;p&gt;与另一灵魂“雨”（可能为卿诗云或其前身）存在特殊联系，共同规避某种“天谴”。&lt;/p&gt;
+&lt;h2 id=&#34;二-异能评估-anomalous-ability-assessment&#34;&gt;二、 异能评估 (Anomalous Ability Assessment)&lt;/h2&gt;
+&lt;p&gt;主要异能：&lt;/p&gt;
+&lt;p&gt;“魔电” (Mó Diàn - Demon Electricity)：&lt;/p&gt;
+&lt;p&gt;描述： 能够操控蕴含雷电与魔族力量的特殊黑色/暗紫色电流。威力巨大，兼具强大的破坏力、麻痹效果和能量冲击。可进行远程攻击、近身爆发、形成能量护盾或武器附魔。&lt;/p&gt;
+&lt;p&gt;已知招式/应用： 雷霆三重冠（异能具象化或血脉武装）、绝云剑（可能为异能凝聚或特殊武器，能与魔电结合）。&lt;/p&gt;
+&lt;p&gt;评估等级： S级（战略级威胁/力量）。&lt;/p&gt;
+&lt;p&gt;备注： 此异能融合了雷与魔的特性，可能是不稳定因素，也是“天谴”的潜在诱因之一。&lt;/p&gt;
+&lt;p&gt;“幽影” (Yōuyǐng - Shadow/Phantom)：&lt;/p&gt;
+&lt;p&gt;描述： 能够操控阴影能量，进行极致的潜行、隐匿、侦察与感知。可以形成黑雾包裹自身或他人，隔绝探查，甚至在一定程度上扭曲光线以达到光学隐身效果。幽影可以渗透微小缝隙，感知环境，传递信息。&lt;/p&gt;
+&lt;p&gt;已知招式/应用： 形成黑雾区域进行绝对安全半径保护、利用幽影进行远距离侦察和信息传递、强行冲开暗门、改变自身发色等。&lt;/p&gt;
+&lt;p&gt;评估等级： A+级（极高战术价值）。&lt;/p&gt;
+&lt;p&gt;备注： “幽影”异能的拥有者在有记载的历史中不超过五位，属于极其稀有且强大的复合型侦察/辅助/暗杀异能。&lt;/p&gt;
+&lt;p&gt;辅助/衍生能力：&lt;/p&gt;
+&lt;p&gt;超常的身体素质： 源于多种强大血脉，拥有远超常人的力量、速度、反应能力和恢复能力。&lt;/p&gt;
+&lt;p&gt;能量感知： 对异能波动、能量场有敏锐的感知力。&lt;/p&gt;
+&lt;p&gt;精神韧性： 具备极高的精神壁垒和抗压能力（但早期可能存在因异能不稳定导致的精神问题记录）。&lt;/p&gt;
+&lt;p&gt;飞行能力（可能）： 提及“一条龙从远方飞来”，“我们走”，暗示可能拥有飞行坐骑或自身具备一定飞行能力。&lt;/p&gt;
+&lt;h2 id=&#34;三-血脉分析-bloodline-analysis---高度机密&#34;&gt;三、 血脉分析 (Bloodline Analysis - 高度机密)&lt;/h2&gt;
+&lt;p&gt;雷神血脉 (Thunder God Bloodline)： 核心力量来源之一，赋予其操控雷电（魔电）的强大能力。可能与远古雷神“厄琉斯”有直接传承关系。&lt;/p&gt;
+&lt;p&gt;魔族可汗血脉 (Demon Khan Bloodline)： 赋予其“魔电”中的“魔”属性，可能增强了力量的破坏性和侵蚀性。与拓（前魔族可汗）拥有同源血脉。&lt;/p&gt;
+&lt;p&gt;龙族血脉 (Dragon Clan Bloodline)： 体内拥有“龙丹”，具体影响未知，但可能增强了其生命力、恢复能力或对特定能量的亲和性。与龙族“未”有特殊联系。&lt;/p&gt;
+&lt;p&gt;血脉融合状态： 多种强大血脉在其体内高度融合，形成了独特的“魔电”异能，但也可能存在潜在的冲突与不稳定性，是其力量强大但也难以完全掌控的原因之一。&lt;/p&gt;
+&lt;h2 id=&#34;四-教育与职业履历-education-and-professional-history&#34;&gt;四、 教育与职业履历 (Education and Professional History)&lt;/h2&gt;
+&lt;p&gt;教育背景：&lt;/p&gt;
+&lt;p&gt;曾就读于京南大学（具体专业未明，但展现出极高的数学天赋和学习能力）。&lt;/p&gt;
+&lt;p&gt;大学期间已展现出非凡的异能潜力，并可能秘密接受过调查局的早期培养或参与过非正式任务。&lt;/p&gt;
+&lt;p&gt;调查局履历：&lt;/p&gt;
+&lt;p&gt;早期经历： 具体加入调查局时间不详，但提及在京南大学时期，京南调查局局长已极力邀请其加入。&lt;/p&gt;
+&lt;p&gt;任务记录：&lt;/p&gt;
+&lt;p&gt;大学时期曾执行过红色绝密任务**“逆鳞之刺”**，成功摧毁“共工怒”装置原型机。&lt;/p&gt;
+&lt;p&gt;曾参与橙色任务营救同伴，利用幽影异能救出三名专员。&lt;/p&gt;
+&lt;p&gt;现阶段在禹州调查局，参与了“禹州地铁爆炸案”、“下城区连环杀人案”、“云华农贸市场失踪案”等一系列案件的调查与处置。&lt;/p&gt;
+&lt;p&gt;职位：&lt;/p&gt;
+&lt;p&gt;曾任京南调查局某行动小队专员（可能为第三小队）。&lt;/p&gt;
+&lt;p&gt;现任禹州调查局行动部执法一大队第一行动小组（“利刃”组）核心专员。&lt;/p&gt;
+&lt;p&gt;兼任调查局新晋专员特训教官，负责教授单兵作战技巧、数据库安全等课程。&lt;/p&gt;
+&lt;p&gt;评价： 调查局内部公认的王牌专员，实力深不可测，战功卓著，但行事风格有时过于“自我”，且背景高度神秘。&lt;/p&gt;
+&lt;h2 id=&#34;五-心理侧写-psychological-profile&#34;&gt;五、 心理侧写 (Psychological Profile)&lt;/h2&gt;
+&lt;p&gt;核心特质： 冷静、果决、强大、自信、极度理智但也偶有情感流露。&lt;/p&gt;
+&lt;p&gt;外在表现： 通常表现得孤僻、不喜言辞，气场强大，令人敬畏。在战斗和执行任务时，展现出超乎常人的专注力和冷酷无情的一面。&lt;/p&gt;
+&lt;p&gt;内在世界：&lt;/p&gt;
+&lt;p&gt;因“灵魂一分为二”和多重血脉的影响，内心可能存在不为人知的挣扎与矛盾。&lt;/p&gt;
+&lt;p&gt;对“天谴”的规避是其行动的重要潜在动机之一。&lt;/p&gt;
+&lt;p&gt;对特定的人（如唐濯枝、卿诗云、张伟、黄芳芳）会展现出关心和保护的一面，暗示其并非完全没有情感。&lt;/p&gt;
+&lt;p&gt;对“毁灭世界”的言论，真实动机和含义有待进一步分析，可能与她的特殊经历、背负的命运或对某种“旧秩序”的彻底否定有关。&lt;/p&gt;
+&lt;p&gt;有在思考时无意识敲击手指等小动作。&lt;/p&gt;
+&lt;p&gt;潜在风险： 早期档案提及有“精神病”诊断（需核实其真实性及与异能的关联）。其力量过于强大，若情绪失控或立场动摇，可能造成灾难性后果。对“天谴”的恐惧可能影响其决策。&lt;/p&gt;
+&lt;h2 id=&#34;六-重要任务记录摘要详情查阅对应任务卷宗&#34;&gt;六、 重要任务记录（摘要，详情查阅对应任务卷宗）&lt;/h2&gt;
+&lt;p&gt;[红色绝密] 任务代号：“逆鳞之刺” （大学时期） - 成功。&lt;/p&gt;
+&lt;p&gt;[橙色] 京南调查局专员营救行动 - 成功。&lt;/p&gt;
+&lt;p&gt;[蓝色/黄色] 禹州地铁爆炸案初步调查 - 阶段性进展。&lt;/p&gt;
+&lt;p&gt;[蓝色/黄色] 禹州下城区连环杀人案（文远/张桂芳案） - 目标已控制。&lt;/p&gt;
+&lt;p&gt;[进行中] 云华农贸市场张乐失踪案及地下医院调查 - 发现重大线索，遭遇武装抵抗。&lt;/p&gt;
+&lt;p&gt;[待评估] 方氏集团“因果种子”及“神启血清”相关调查 - 列为高度关注。&lt;/p&gt;
+&lt;h2 id=&#34;七-人际关系-interpersonal-relationships---需持续更新&#34;&gt;七、 人际关系 (Interpersonal Relationships - 需持续更新)&lt;/h2&gt;
+&lt;p&gt;唐濯枝： 关系复杂且羁绊深厚。既是师生（卿诗雨作为教官），也存在超越师生的情感联系（“我孩子”的称呼）。唐濯枝的“耀恒王”血脉和特殊身份对卿诗雨的计划或命运可能至关重要。&lt;/p&gt;
+&lt;p&gt;卿诗云： 疑似卿诗雨“分裂的另一半灵魂”或其重要关联者，两者之间存在深刻的联系和未解的谜团。&lt;/p&gt;
+&lt;p&gt;雨 (Yu)： 卿诗雨的另一重身份或灵魂的原始形态，与雷神、魔族等有直接关联。&lt;/p&gt;
+&lt;p&gt;屠夫： 在禹州调查局的直属上级（或重要同僚），对其能力高度信任，但对其某些行为可能也存有疑虑和约束。&lt;/p&gt;
+&lt;p&gt;陈启曦： 同为调查局教官，对其能力和背景有所了解，关系偏向同事。&lt;/p&gt;
+&lt;p&gt;楚怀（二十四号）： 训练营学员，对其教官身份和实力有所认知，并对其真实样貌产生过怀疑。&lt;/p&gt;
+&lt;p&gt;李娇（三十号）： 卿诗雨亲自指导的学员，专攻狙击与暗杀，是卿诗雨重点培养的对象。&lt;/p&gt;
+&lt;p&gt;张伟 &amp;amp; 黄芳芳： 因案件暂时寄住在卿诗雨家中的高中生，卿诗雨对他们展现出少有的生活化和保护姿态。&lt;/p&gt;
+&lt;p&gt;拓（前魔族可汗）： 与其拥有同源可汗血脉，被卿诗雨击败并收服。&lt;/p&gt;
+&lt;p&gt;未（龙族）： 曾赠与卿诗雨雷龙坐骑，两者关系微妙，似敌似友。&lt;/p&gt;
+&lt;p&gt;方成哲： 曾经的同学（可能在京南大学），“因果种子”事件的核心人物，卿诗雨对其家族企业方氏集团正在进行秘密调查。&lt;/p&gt;
+&lt;p&gt;谭小姐（方成哲继母）： 卿诗雨在调查中多次遇到，对其身份和目的存疑。&lt;/p&gt;
+&lt;h2 id=&#34;八-特别备注风险评估-special-remarksrisk-assessment&#34;&gt;八、 特别备注/风险评估 (Special Remarks/Risk Assessment)&lt;/h2&gt;
+&lt;p&gt;极度危险个体： 卿诗雨专员拥有战略级的破坏力和顶尖的单兵作战能力，其忠诚度和立场对调查局乃至红星国至关重要。&lt;/p&gt;
+&lt;p&gt;“天谴”因素： 其试图规避的“天谴”是其行为模式中一个重要的不确定因素，需密切关注其对“天谴”的认知和应对策略。&lt;/p&gt;
+&lt;p&gt;多重血脉与灵魂状态： 其复杂的血脉构成和“灵魂分裂”状态可能存在潜在的失控风险或被敌对势力利用的可能。&lt;/p&gt;
+&lt;p&gt;信息管控： 关于其真实身份、血脉秘密以及与“雨”和卿诗云的关系，列为调查局最高级别机密，严禁外泄。&lt;/p&gt;
+&lt;p&gt;建议： 在指派任务时，需充分考虑其能力上限和潜在风险，并配备必要的支援和后备方案。对其心理状态进行定期（秘密）评估。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>李明轩</title>
+      <link>http://localhost:1313/people/li-mingxuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/li-mingxuan/</guid>
+      <description>&lt;h1 id=&#34;专员档案李明轩&#34;&gt;专员档案：李明轩&lt;/h1&gt;
+&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;: 李明轩&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职级&lt;/strong&gt;: 高级技术专员 (A级权限)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属&lt;/strong&gt;: 调查局研发部&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;入职时间&lt;/strong&gt;: 2020年6月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专业方向&lt;/strong&gt;: 异能检测技术与数据分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;专业技能&#34;&gt;专业技能&lt;/h2&gt;
+&lt;h3 id=&#34;技术专长&#34;&gt;技术专长&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;异能检测设备&lt;/strong&gt;: 自主研发多款便携式检测仪&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据分析系统&lt;/strong&gt;: 负责调查局情报分析AI系统&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设备维护&lt;/strong&gt;: 全局设备技术支持&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网络安全&lt;/strong&gt;: 信息系统安全防护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技术能力评估&#34;&gt;技术能力评估&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;编程能力&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;硬件开发&lt;/strong&gt;: ★★★★☆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据分析&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创新思维&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要成就&#34;&gt;主要成就&lt;/h2&gt;
+&lt;h3 id=&#34;重要项目&#34;&gt;重要项目&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;异能强度检测仪 V3.0&lt;/strong&gt; (2023年)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;检测精度提升40%&lt;/li&gt;
+&lt;li&gt;设备体积缩小60%&lt;/li&gt;
+&lt;li&gt;获得局内科技进步一等奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;智能威胁评估系统&lt;/strong&gt; (2024年)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自动分析异能事件风险等级&lt;/li&gt;
+&lt;li&gt;预测准确率达到92%&lt;/li&gt;
+&lt;li&gt;大幅提升响应效率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;全局通信加密系统&lt;/strong&gt; (进行中)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;确保调查局内部通信安全&lt;/li&gt;
+&lt;li&gt;防范外部情报窃取&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;学术贡献&#34;&gt;学术贡献&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;发表异能技术相关论文15篇&lt;/li&gt;
+&lt;li&gt;持有专利技术8项&lt;/li&gt;
+&lt;li&gt;调查局技术委员会核心成员&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;个人评价&#34;&gt;个人评价&lt;/h2&gt;
+&lt;p&gt;李明轩专员是调查局技术部门的中坚力量，其在异能检测技术和数据分析领域的专业能力为调查局的现代化建设做出了重要贡献。他开发的多项技术设备已成为一线专员执行任务的重要工具。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;档案建立时间：2020年6月15日&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;最后更新：2024年11月20日&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>行动部</title>
+      <link>http://localhost:1313/op/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/op/</guid>
+      <description>&lt;h1 id=&#34;红星联邦共和国禹州调查局行动部&#34;&gt;红星联邦共和国禹州调查局行动部&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>陈雅静</title>
+      <link>http://localhost:1313/people/chen-yajing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/chen-yajing/</guid>
+      <description>&lt;h1 id=&#34;专员档案陈雅静&#34;&gt;专员档案：陈雅静&lt;/h1&gt;
+&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;: 陈雅静&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职级&lt;/strong&gt;: 行政主管 (B级权限)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属&lt;/strong&gt;: 调查局行政部&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;入职时间&lt;/strong&gt;: 2019年9月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专业方向&lt;/strong&gt;: 人事管理与后勤协调&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工作职责&#34;&gt;工作职责&lt;/h2&gt;
+&lt;h3 id=&#34;主要职能&#34;&gt;主要职能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;人事管理&lt;/strong&gt;: 专员招募、培训和考核&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后勤保障&lt;/strong&gt;: 物资采购、设施维护&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流程协调&lt;/strong&gt;: 部门间沟通协调&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全管理&lt;/strong&gt;: 内部安全制度执行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;管理能力评估&#34;&gt;管理能力评估&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;组织协调&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;沟通能力&lt;/strong&gt;: ★★★★★&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;执行效率&lt;/strong&gt;: ★★★★☆&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应急处理&lt;/strong&gt;: ★★★★☆&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要成就&#34;&gt;主要成就&lt;/h2&gt;
+&lt;h3 id=&#34;管理创新&#34;&gt;管理创新&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;数字化人事系统&lt;/strong&gt; (2022年)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;建立完整的专员档案数字化管理&lt;/li&gt;
+&lt;li&gt;提升人事管理效率300%&lt;/li&gt;
+&lt;li&gt;获得局内管理创新奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;应急物资保障体系&lt;/strong&gt; (2023年)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;建立24小时应急物资供应链&lt;/li&gt;
+&lt;li&gt;确保任务物资及时到位&lt;/li&gt;
+&lt;li&gt;显著提升行动响应速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;跨部门协调机制&lt;/strong&gt; (2024年)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优化部门间沟通流程&lt;/li&gt;
+&lt;li&gt;减少协调时间50%&lt;/li&gt;
+&lt;li&gt;提升整体工作效率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;工作成果&#34;&gt;工作成果&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;管理专员档案超过200份&lt;/li&gt;
+&lt;li&gt;协调重大任务后勤保障50+次&lt;/li&gt;
+&lt;li&gt;建立标准化管理流程15项&lt;/li&gt;
+&lt;li&gt;培训新入职专员累计180人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;个人评价&#34;&gt;个人评价&lt;/h2&gt;
+&lt;p&gt;陈雅静主管是调查局行政管理的核心骨干，其出色的组织协调能力和高效的执行力为调查局的日常运营提供了坚实保障。在她的管理下，行政部门运转高效，为一线专员的任务执行创造了良好的后勤条件。&lt;/p&gt;
+&lt;h2 id=&#34;特殊贡献&#34;&gt;特殊贡献&lt;/h2&gt;
+&lt;p&gt;在多次紧急任务中，陈雅静主管都能在极短时间内完成人员调配和物资准备，为任务成功执行提供了重要支撑。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;档案建立时间：2019年9月10日&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;最后更新：2024年10月15日&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
